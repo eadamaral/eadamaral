@@ -1,13 +1,9 @@
-### Olá! Eu sou Amaral Dias 👋
+### Olá! Eu sou Amaral Dias  👋
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eadamarall)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://instagram.com/eadamarall)
+Recém-formado em Análise e Desenvolvimento de Sistemas em busca de oportunidade e colaboração em projetos Front-end e Mobile.
 
-![Amaral Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=eadamaral&show_icons=true&theme=dracula)
+🌱 Atualmente estou aprendendo as principais tecnologias base do mercado.
 
-### Tecnologias que estou estudando
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=eadamaral)
 
-<div style="display: inline_block"><br/>
-<img alingn= alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img alingn= alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
