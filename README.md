@@ -1,7 +1,11 @@
-## Oi, eu sou a Amaral Dias, Desenvolvedor Front-end e Criador de Conteúdo!
+## Oi, eu sou Amaral Dias!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+♥ Formado em Análise e Desenvolvimento de Sistemas, procurando oportunidades e colaboração em projetos front-end e Mobile. 
+🌱 Atualmente estou aprendendo as principais tecnologias do mercado e criando conteúdo para internet!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?eadamaral=anuraghazra&show_icons=true&theme=radical)
+
+🌱 Tecnologias que estou estudando
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amaral-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
